@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {97FDCE88-2B98-4725-BADB-7A4FC99CD490}
+database: master
+path: /sitecore/content/Maps/Travel Map of Australia/Great Barrier Reef
+parent: {E6F7ACC3-6893-4367-B49C-577A27F6C1BB}
+name: Great Barrier Reef
+master: {00000000-0000-0000-0000-000000000000}
+template: {1711821D-9DFC-458B-A57B-7895C3139042}
+templatekey: Polygon
+
+----version----
+language: en
+version: 1
+revision: d8c4410d-1cda-440d-9f74-3399b1ade307
+
+----field----
+field: {5274AFEE-E88A-4E9E-82FE-1A433F9215AD}
+name: Points
+key: points
+content-length: 890
+
+-14.273881245172987,144.55648545937504|-14.954253678434014,145.47933702187504|-15.420767281952445,145.43539170937504|-16.561355893629866,145.83089952187504|-17.56959007703419,146.27035264687504|-18.572237829606234,146.27035264687504|-19.154426393075514,147.14925889687504|-19.486189631988356,148.16000108437504|-20.10640972968056,148.81918077187504|-20.72418179483264,149.21468858437504|-21.052637837803275,149.87386827187504|-21.584832463878953,150.44515733437504|-22.083907965903418,151.09335069375004|-22.866212198571404,151.87337999062504|-22.155784937790838,152.20296983437504|-21.093644182944583,151.67562608437504|-19.982559548378624,150.70882920937504|-19.444756125873965,149.52230577187504|-18.73878327512401,148.29183702187504|-17.695232262083984,148.11605577187504|-16.01299620439893,146.84164170937504|-14.91179250055927,146.22640733437504|-13.847595803623179,145.12777452187504
+----field----
+field: {170CE783-4F27-4E5F-A8E1-CC086432F1B2}
+name: Text
+key: text
+content-length: 215
+
+<p>The <strong>Great Barrier Reef</strong> is the world's largest reef system&nbsp;composed of over 2,900 individual reefs&nbsp;and 900 islands stretching over an area of approximately 344,400 square kilometres.</p>
+----field----
+field: {F6C1AA38-7D17-4E72-8DEF-BDDC55CD54E8}
+name: Stroke Color
+key: stroke color
+content-length: 7
+
+#FFFF00
+----field----
+field: {944D7C74-D3A2-4566-877A-C4264237C3FA}
+name: Fill Color
+key: fill color
+content-length: 7
+
+#FFFF00
+----field----
+field: {1181EEEF-3232-4E80-B131-589984C04A06}
+name: Is Clickable
+key: is clickable
+content-length: 1
+
+1
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20111103T102700
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d8c4410d-1cda-440d-9f74-3399b1ade307
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20111103T104059:634559136599394271
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

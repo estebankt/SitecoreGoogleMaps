@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {14C78D98-A8DE-43CC-833C-36A0277C6CA9}
+database: master
+path: /sitecore/templates/Google Maps/Line/__Standard Values
+parent: {23946536-4AAC-482A-88D9-D710510E5DB8}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {23946536-4AAC-482A-88D9-D710510E5DB8}
+templatekey: Line
+
+----version----
+language: en
+version: 1
+revision: eeca2433-a1ee-4ddc-bdcc-881d5eaf63d8
+
+----field----
+field: {F6C1AA38-7D17-4E72-8DEF-BDDC55CD54E8}
+name: Stroke Color
+key: stroke color
+content-length: 7
+
+#FF0000
+----field----
+field: {4B2FE69F-5EC0-4E72-A173-16F29DCBC26C}
+name: Stroke Weight
+key: stroke weight
+content-length: 1
+
+2
+----field----
+field: {223C7F54-D6EA-479D-B4CE-41925F5917BC}
+name: Stroke Opacity
+key: stroke opacity
+content-length: 3
+
+0.8
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20111102T141600
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+eeca2433-a1ee-4ddc-bdcc-881d5eaf63d8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20111102T141806:634558402869017294
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

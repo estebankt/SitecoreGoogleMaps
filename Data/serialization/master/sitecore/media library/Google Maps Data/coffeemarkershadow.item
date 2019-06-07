@@ -1,0 +1,140 @@
+----item----
+version: 1
+id: {05D2476E-AFC3-4E25-9BD4-CA029B9740CF}
+database: master
+path: /sitecore/media library/Google Maps Data/coffeemarkershadow
+parent: {F0054C4A-E626-4D17-B0AF-4F50F6E5C8B2}
+name: coffeemarkershadow
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
+templatekey: Image
+
+----field----
+field: {40E50ED9-BA07-4702-992E-A912738D32DC}
+name: Blob
+key: blob
+content-length: 2064
+
+iVBORw0KGgoAAAANSUhEUgAAAEAAAAASCAYAAADrL9giAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
+NDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAv
+IiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RS
+ZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpD
+cmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNl
+SUQ9InhtcC5paWQ6NEEwNDkxQkVGREQzMTFFMEFCRDBCODVDODY2NUMwQTYiIHhtcE1NOkRvY3Vt
+ZW50SUQ9InhtcC5kaWQ6NEEwNDkxQkZGREQzMTFFMEFCRDBCODVDODY2NUMwQTYiPiA8eG1wTU06
+RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo0QTA0OTFCQ0ZERDMxMUUwQUJE
+MEI4NUM4NjY1QzBBNiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo0QTA0OTFCREZERDMxMUUw
+QUJEMEI4NUM4NjY1QzBBNiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1w
+bWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pl0rNCMAAAJYSURBVHjaxJeJbsIwEERxcEjLFVqp/f8/
+bLgaTMCuU81Ko5UpV5IijUzTRPHs28OY0fAfgzXDd1nN6B83M8R7RGMoj5pgtbiWDeg9RJ3NQKQz
+MvwKzaKm+C6BGA9g+td4VBNV2x5pZyArpudRi6gyaokAiHnJgD5KQUz7qBOMf0ftopztgbak9wtM
+tqZXUW8wPsf/xHimSqRL455oH6BtVBX11a6mA9NS10J7CpMlTK8QhBmM51QWpqOeFHRtg/aRaK/F
+NIKwbwNinmxolmjPQXgFlbj2mqDdZQMOqraPIN0a3BDtNQJR4542QN48SLs1XRBtSfGSaBeKdtem
+NW0H2pLiFdH+RlAalIWX580dDW2sGtqSUnxJtHMaaX3UNdf2EUT3ICy0N7gmtM94JqhySW5ONzSb
+aGiiObKgUJ28D9qeaB8UbUlxoe1w31lly5+pPUqML25okuYLGmG5OsD0RftEtLcgLA1NaB+IdkjR
+viXFczqkLCjFS6LdV0MLFw4rqYa2QSBqou2v0U59hPQLzC1ofMmBZUrj6xrt8IR5f4F2anw5BOfM
+De2RF1tqZu9kXB9WrGpsl+avvyf96D4x7dTcrrDucb1RtMOzaWdB/R2pPoVRGRc1/i4o/TNVn14d
+MzWZP3+MqBG2A+UdzWyXGl9dNRqLF2ywkSpR2xME5xPBMthIA2pCzmHD0oz8lY1y0A4kh+ebexva
+owGoiLSu6wyl8IEN7LE6GkU1HTQcpem1TXOHP1HW9G5aB0A2fulMUFBHnhAxp2g16sBxb9cPXaf3
+LZ8fAQYAHs0b1QASmv0AAAAASUVORK5CYII=
+----field----
+field: {22EAC599-F13B-4607-A89D-C091763A467D}
+name: Width
+key: width
+content-length: 2
+
+64
+----field----
+field: {DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}
+name: Height
+key: height
+content-length: 2
+
+18
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+png
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 9
+
+image/png
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 4
+
+1508
+----field----
+field: {CB09946F-3218-4823-87D2-D5007C199A96}
+name: Dimensions
+key: dimensions
+content-length: 7
+
+64 x 18
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+~/media/05D2476EAFC34E259BD4CA029B9740CF.ashx?h=16&thn=1&w=16
+----version----
+language: en
+version: 1
+revision: 6fe64ede-b7c9-46ee-92bf-3349b9fa7db7
+
+----field----
+field: {65885C44-8FCD-4A7F-94F1-EE63703FE193}
+name: Alt
+key: alt
+content-length: 6
+
+Shadow
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20111103T111600
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6fe64ede-b7c9-46ee-92bf-3349b9fa7db7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20111103T111715:634559158355588655
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

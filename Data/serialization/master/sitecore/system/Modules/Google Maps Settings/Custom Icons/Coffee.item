@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {17F8E6D3-82EF-46F0-BC2D-CCC6ED0463DE}
+database: master
+path: /sitecore/system/Modules/Google Maps Settings/Custom Icons/Coffee
+parent: {C42BAADC-1CB3-48A3-B4AA-DCFB24AA6352}
+name: Coffee
+master: {00000000-0000-0000-0000-000000000000}
+template: {5EF47214-0553-4FA0-88E7-6F755502C935}
+templatekey: Custom Icon
+
+----version----
+language: en
+version: 1
+revision: 51add237-a620-447e-a00c-5cd869ef3263
+
+----field----
+field: {C295BFCF-FA3D-4365-BC81-437D0F9D1201}
+name: Image
+key: image
+content-length: 150
+
+<image mediaid="{4951DBD8-AA0F-4810-8E94-38D311088E00}" mediapath="/Google Maps Data/coffeemarker" src="~/media/Google Maps Data/coffeemarker.ashx" />
+----field----
+field: {499BAC3B-2472-4BF8-81DC-7B79AA9114B1}
+name: Anchor
+key: anchor
+content-length: 5
+
+15,32
+----field----
+field: {6CB7479B-CAD5-436A-8DCE-9C5B6B19A848}
+name: Shadow Image
+key: shadow image
+content-length: 162
+
+<image mediaid="{05D2476E-AFC3-4E25-9BD4-CA029B9740CF}" mediapath="/Google Maps Data/coffeemarkershadow" src="~/media/Google Maps Data/coffeemarkershadow.ashx" />
+----field----
+field: {6EEABB29-9513-462E-B5AE-B95C5F15371B}
+name: Shadow Anchor
+key: shadow anchor
+content-length: 5
+
+11,18
+----field----
+field: {7C8175BB-DBB7-4E5A-BF85-D04EF794BBC0}
+name: Clickable Polygon
+key: clickable polygon
+content-length: 19
+
+0,0,0,26,32,26,32,0
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20111103T111600
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+51add237-a620-447e-a00c-5cd869ef3263
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20111103T112158:634559161182970372
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,9 @@
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\obj\Debug\Sitecore.SharedSource.GoogleMaps.csproj.CoreCompileInputs.cache
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\Sitecore.SharedSource.GoogleMaps.dll.config
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\Sitecore.SharedSource.GoogleMaps.dll
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\Sitecore.SharedSource.GoogleMaps.pdb
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\Sitecore.Kernel.dll
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\Newtonsoft.Json.dll
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\obj\Debug\Sitecore.SharedSource.GoogleMaps.csproj.CopyComplete
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\obj\Debug\Sitecore.SharedSource.GoogleMaps.dll
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\obj\Debug\Sitecore.SharedSource.GoogleMaps.pdb

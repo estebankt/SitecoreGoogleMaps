@@ -1,0 +1,73 @@
+----item----
+version: 1
+id: {490BC298-B2F4-4CF6-A633-0D8B21EB0078}
+database: master
+path: /sitecore/content/Maps/Travel Map of Australia/Melbourne
+parent: {E6F7ACC3-6893-4367-B49C-577A27F6C1BB}
+name: Melbourne
+master: {00000000-0000-0000-0000-000000000000}
+template: {B2E89D6B-7573-4022-9F51-5225F10F351B}
+templatekey: Location
+
+----version----
+language: en
+version: 1
+revision: 8b3a9f3c-193a-4e3c-b7e4-76769acad1b3
+
+----field----
+field: {B09D6061-9295-4BF5-8D00-506B62026C65}
+name: Text
+key: text
+content-length: 599
+
+<a href="http://www.flickr.com/photos/_heiko/3921193613/" title="Degraves St by heikof, on Flickr" target="_blank"><img src="http://farm3.static.flickr.com/2676/3921193613_49b64356ba_m.jpg" width="240" height="184" alt="Degraves St" style="float: left; margin-top: 0px; margin-right: 10px; margin-bottom: 10px; margin-left: 0px;" /></a>
+<p><strong>Degraves Street</strong> is a laneway that runs between Finders Street and Flinders Lane, near Elizabeth Street. Close to an exit from Flinders Street Station, it is a popular place for people to stop for a coffee or snack before catching a train.</p>
+----field----
+field: {42BE1F1F-F4D7-4EFB-A818-1FA6544217C9}
+name: Longitude
+key: longitude
+content-length: 11
+
+144.9629796
+----field----
+field: {A98A6335-E60C-4063-B385-A1E53311ED5B}
+name: Latitude
+key: latitude
+content-length: 11
+
+-37.8131869
+----field----
+field: {3257782B-A0EE-4863-9F75-7BCB2C310378}
+name: Custom Icon
+key: custom icon
+content-length: 38
+
+{17F8E6D3-82EF-46F0-BC2D-CCC6ED0463DE}
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20111103T102600
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8b3a9f3c-193a-4e3c-b7e4-76769acad1b3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20111103T111952:634559159925988476
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

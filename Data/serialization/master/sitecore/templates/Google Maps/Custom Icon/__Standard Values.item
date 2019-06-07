@@ -1,0 +1,72 @@
+----item----
+version: 1
+id: {A1963555-9B73-4AB0-958F-D43CE15D7772}
+database: master
+path: /sitecore/templates/Google Maps/Custom Icon/__Standard Values
+parent: {5EF47214-0553-4FA0-88E7-6F755502C935}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {5EF47214-0553-4FA0-88E7-6F755502C935}
+templatekey: Custom Icon
+
+----version----
+language: en
+version: 1
+revision: 9b02ad5a-a3e8-46d8-94e2-f748dccbc35d
+
+----field----
+field: {499BAC3B-2472-4BF8-81DC-7B79AA9114B1}
+name: Anchor
+key: anchor
+content-length: 3
+
+0,0
+----field----
+field: {6EEABB29-9513-462E-B5AE-B95C5F15371B}
+name: Shadow Anchor
+key: shadow anchor
+content-length: 3
+
+0,0
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20111031T122600
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9b02ad5a-a3e8-46d8-94e2-f748dccbc35d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20111031T122635:634556607950011984
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

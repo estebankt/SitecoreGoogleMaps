@@ -1,0 +1,72 @@
+----item----
+version: 1
+id: {9348D0C3-D65E-46F3-81AE-240048F23281}
+database: master
+path: /sitecore/system/Modules/Google Maps Settings/Map Types/Normal
+parent: {6201724D-DB1E-490F-81ED-829E4D110613}
+name: Normal
+master: {00000000-0000-0000-0000-000000000000}
+template: {9F219040-7AFE-44D3-ABB0-F5316663DCC1}
+templatekey: Map Types
+
+----version----
+language: en
+version: 1
+revision: 39f85cb2-744f-4d7a-a6da-a1c6250033e6
+
+----field----
+field: {8AF98541-0019-4C0F-988B-5005CDB1EBE1}
+name: Type
+key: type
+content-length: 29
+
+google.maps.MapTypeId.ROADMAP
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20090630T125100
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+39f85cb2-744f-4d7a-a6da-a1c6250033e6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20111025T172935:634551605757061191
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

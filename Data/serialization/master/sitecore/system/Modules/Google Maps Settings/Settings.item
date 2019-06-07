@@ -1,0 +1,154 @@
+----item----
+version: 1
+id: {D7162B31-ACD3-41BC-A198-D12E3F53DCDF}
+database: master
+path: /sitecore/system/Modules/Google Maps Settings/Settings
+parent: {CB79BB06-B555-4FC6-8E34-44AAA6D2EDFF}
+name: Settings
+master: {00000000-0000-0000-0000-000000000000}
+template: {A3A53E9F-690A-4313-835D-6563AC8DAA44}
+templatekey: Settings
+
+----version----
+language: ar-DZ
+version: 1
+revision: 76996258-51e5-4015-932a-0030f8aa5e46
+
+----field----
+field: {77217392-97C1-41B0-8D4D-10C60957078E}
+name: Longitude
+key: longitude
+content-length: 0
+
+
+----field----
+field: {0E3CBE7E-A72C-4A38-98B8-A267FC4DDE20}
+name: Latitude
+key: latitude
+content-length: 0
+
+
+----field----
+field: {794CB4E5-079F-4B89-A0DC-0C4DC50A82E0}
+name: Initial Zoom Level
+key: initial zoom level
+content-length: 0
+
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20090828T113800
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+76996258-51e5-4015-932a-0030f8aa5e46
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20090828T120952:633870581922920000
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 2098ef37-c3d4-4c00-9676-50ab0705e87d
+
+----field----
+field: {77217392-97C1-41B0-8D4D-10C60957078E}
+name: Longitude
+key: longitude
+content-length: 16
+
+6.21664170937504
+----field----
+field: {0E3CBE7E-A72C-4A38-98B8-A267FC4DDE20}
+name: Latitude
+key: latitude
+content-length: 16
+
+23.6355461141678
+----field----
+field: {794CB4E5-079F-4B89-A0DC-0C4DC50A82E0}
+name: Initial Zoom Level
+key: initial zoom level
+content-length: 1
+
+2
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20090708T083400
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2098ef37-c3d4-4c00-9676-50ab0705e87d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20111103T101302:634559119828615038
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

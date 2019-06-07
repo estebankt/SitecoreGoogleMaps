@@ -1,0 +1,93 @@
+----item----
+version: 1
+id: {E6F7ACC3-6893-4367-B49C-577A27F6C1BB}
+database: master
+path: /sitecore/content/Maps/Travel Map of Australia
+parent: {0AC91138-F9C5-4912-BA63-CE192D72185A}
+name: Travel Map of Australia
+master: {00000000-0000-0000-0000-000000000000}
+template: {D7E8ED30-075A-4F7F-93C4-CC22B13C9257}
+templatekey: Google Map
+
+----version----
+language: en
+version: 1
+revision: 6356777a-fbe7-4973-8f67-10533cd52f5a
+
+----field----
+field: {D41F5974-638D-4A6D-9464-FA6567B6E490}
+name: Initial Zoom Level
+key: initial zoom level
+content-length: 1
+
+4
+----field----
+field: {95FA4F01-415F-440A-A0AF-EE93D5608968}
+name: Longitude
+key: longitude
+content-length: 15
+
+136.30737265625
+----field----
+field: {3D7FE475-1470-4792-BB2F-5FE1ED33AC53}
+name: Latitude
+key: latitude
+content-length: 16
+
+-27.741885049373
+----field----
+field: {D49E3CE7-CADB-433B-A242-9E3A6BFC0948}
+name: Map Types
+key: map types
+content-length: 77
+
+{9348D0C3-D65E-46F3-81AE-240048F23281}|{9A432EDC-A886-4FCF-8C45-98C1D6CB947F}
+----field----
+field: {5A2D5D53-AA7C-45E1-AFC9-B8054C6AEED1}
+name: Height
+key: height
+content-length: 3
+
+500
+----field----
+field: {100F80AE-A49B-4878-AF83-7B6228B70FED}
+name: Width
+key: width
+content-length: 3
+
+750
+----field----
+field: {02E9D3CB-9CCB-43DF-8AF9-0A6DFB881016}
+name: Disable All Default UI Elements
+key: disable all default ui elements
+content-length: 0
+
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20111103T101400
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6356777a-fbe7-4973-8f67-10533cd52f5a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20111122T140131:634575672917758895
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

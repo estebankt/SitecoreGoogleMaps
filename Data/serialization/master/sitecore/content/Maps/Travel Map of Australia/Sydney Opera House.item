@@ -1,0 +1,66 @@
+----item----
+version: 1
+id: {E679AED6-D246-4DF1-AE21-0F7D7D6A90CC}
+database: master
+path: /sitecore/content/Maps/Travel Map of Australia/Sydney Opera House
+parent: {E6F7ACC3-6893-4367-B49C-577A27F6C1BB}
+name: Sydney Opera House
+master: {00000000-0000-0000-0000-000000000000}
+template: {B2E89D6B-7573-4022-9F51-5225F10F351B}
+templatekey: Location
+
+----version----
+language: en
+version: 1
+revision: 9b86fd65-6f93-4519-9dde-c21a3aa6f7aa
+
+----field----
+field: {B09D6061-9295-4BF5-8D00-506B62026C65}
+name: Text
+key: text
+content-length: 579
+
+<a target="_blank" href="http://www.flickr.com/photos/_heiko/4260552745/" title="Sydney Opera House by heikof, on Flickr"><img src="http://farm5.static.flickr.com/4039/4260552745_f4975fb4d5_m.jpg" width="240" height="129" alt="Sydney Opera House" style="float: left; margin-top: 0px; margin-right: 10px; margin-bottom: 10px; margin-left: 0px;" /></a>
+<p>Approximately 4.5 million people visit the <strong>Sydney Opera House</strong> each year. This is about a quarter of Australia's total population and more than twice the number of yearly visitors to America's White House.</p>
+----field----
+field: {42BE1F1F-F4D7-4EFB-A818-1FA6544217C9}
+name: Longitude
+key: longitude
+content-length: 16
+
+151.214871854028
+----field----
+field: {A98A6335-E60C-4063-B385-A1E53311ED5B}
+name: Latitude
+key: latitude
+content-length: 17
+
+-33.8569739383129
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20111103T102200
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9b86fd65-6f93-4519-9dde-c21a3aa6f7aa
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20111103T104251:634559137716018139
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

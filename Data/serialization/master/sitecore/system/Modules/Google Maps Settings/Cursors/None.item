@@ -1,0 +1,72 @@
+----item----
+version: 1
+id: {6F0125F5-E66B-4094-88B8-5CE553CA796B}
+database: master
+path: /sitecore/system/Modules/Google Maps Settings/Cursors/None
+parent: {8460D8BE-A36D-449D-8DD6-C8C27E2A783F}
+name: None
+master: {00000000-0000-0000-0000-000000000000}
+template: {D0610EE1-D368-4FAC-8A72-3E55D66A79D3}
+templatekey: Google Cursor
+
+----version----
+language: en
+version: 1
+revision: d76a1659-c215-4688-89e0-7fefb8037169
+
+----field----
+field: {3446CB5D-0A0E-4F50-8CFA-28148D22CF8C}
+name: Name
+key: name
+content-length: 4
+
+none
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20090705T160100
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d76a1659-c215-4688-89e0-7fefb8037169
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20090709T124919:633827405594174392
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\Anonymous
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
