@@ -7,3 +7,4 @@ C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\Newtonsoft.J
 C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\obj\Debug\Sitecore.SharedSource.GoogleMaps.csproj.CopyComplete
 C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\obj\Debug\Sitecore.SharedSource.GoogleMaps.dll
 C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\obj\Debug\Sitecore.SharedSource.GoogleMaps.pdb
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\obj\Debug\Sitecore.SharedSource.GoogleMaps.csprojAssemblyReference.cache
