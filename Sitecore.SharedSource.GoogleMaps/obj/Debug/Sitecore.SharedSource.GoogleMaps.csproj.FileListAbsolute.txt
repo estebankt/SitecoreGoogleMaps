@@ -7,4 +7,16 @@ C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\Newtonsoft.J
 C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\obj\Debug\Sitecore.SharedSource.GoogleMaps.csproj.CopyComplete
 C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\obj\Debug\Sitecore.SharedSource.GoogleMaps.dll
 C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\obj\Debug\Sitecore.SharedSource.GoogleMaps.pdb
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\Sitecore.Mvc.dll
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\System.Web.Helpers.dll
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\System.Web.Razor.dll
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\System.Web.WebPages.dll
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\System.Web.WebPages.Razor.dll
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\System.Web.Helpers.xml
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\System.Web.Razor.xml
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\System.Web.WebPages.xml
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\bin\System.Web.WebPages.Razor.xml
 C:\Projects\SitecoreGoogleMaps\Sitecore.SharedSource.GoogleMaps\obj\Debug\Sitecore.SharedSource.GoogleMaps.csprojAssemblyReference.cache

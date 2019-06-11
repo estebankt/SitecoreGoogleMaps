@@ -22,6 +22,7 @@ using Sitecore.Globalization;
 using Sitecore.Data.Fields;
 using Sitecore.SharedSource.GoogleMaps.Gmaps;
 using Sitecore.Data;
+using Version = Sitecore.Data.Version;
 
 namespace Sitecore.SharedSource.GoogleMaps
 {
@@ -96,7 +97,8 @@ namespace Sitecore.SharedSource.GoogleMaps
         {
             get
             {
-                return _currentItem != null ? _currentItem : _currentItem = MasterDB.GetItem(HttpContext.Current.Request.QueryString["id"], Language.Parse(HttpContext.Current.Request.QueryString["language"]), new Sitecore.Data.Version(HttpContext.Current.Request.QueryString["v"]));
+	            return _currentItem != null ? _currentItem : _currentItem = MasterDB.GetItem(
+		            HttpContext.Current.Request.QueryString["id"], Language.Invariant, Version.Latest);
             }
         }
 
